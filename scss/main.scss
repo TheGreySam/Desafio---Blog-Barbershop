@@ -1,3 +1,13 @@
-//manifiesto
+@import "vendors/bootstrap/functions.scss";
 
+$theme-colors: (
+   "primary": #ffc785,
+   "secondary": #ffff,
+   "success": #72d6c9,
+   "info": #00aedb,
+   "warning": #df7599,
+   "danger": #ffc785,
+   "purple": #b19cd9,
+);
+//manifiesto
 @import "vendors/bootstrap/bootstrap.scss";
